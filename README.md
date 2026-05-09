@@ -1,2 +1,2 @@
 # graph-designer
-A program that allows a developer to add vertices and edges, manipulate an undirected graph, perform depth-first and breadth-first searches, find vertices by label, and perform Dijkstra's shortest path algorithm on a vertex or on all vertices, printing out the data.
+This C++ program allows a developer to add vertices and edges to a directed graph with defined weights. The weight of any given edge can be returned. The developer can also call functions to perform depth-first and breadth-first searches on the entire graph. Dijkstra's shortest path algorithm can be applied to any vertex or all vertices with the path(s) returned as unordered map. Finally, the digraph can be output in DOT format.
